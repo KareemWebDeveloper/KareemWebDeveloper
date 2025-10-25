@@ -1,6 +1,6 @@
 <p align="center">
 <!-- START: Animated Neon SVG Header -->
-
+<img src="https://github.com/KareemWebDeveloper/KareemWebDeveloper/blob/main/banner.svg" width="100%" alt="Kareem Ayman - Building Intelligent Frontends for the AI Era" />
 <!-- END: Animated Neon SVG Header -->
 </p>
 
